@@ -7,11 +7,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  create_an_array.push ("vageta")
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  create_an_array.unshif("luffy")
 end
 
 def remove_element_from_end_of_array(array)
